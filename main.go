@@ -1,5 +1,0 @@
-package LD
-
-func main() {
-
-}
